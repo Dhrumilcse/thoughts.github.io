@@ -12,6 +12,16 @@
     opacity:0.25
 }
 
+
+.text-sub-title{
+  font-size:.5666666667rem;
+  font-family:inherit;
+  padding-top:0rem;
+  font-weight:600;
+  margin:-2rem auto 2.5rem;
+  max-width:18rem
+  }
+
 .archive-post-day{flex:0 1 auto}
 
 details{text-align:center}
